@@ -1,6 +1,5 @@
 ### Hello there...this is Olivia 👋
 
-- 🌱 I’m currently learning Frontend Web Dev
 
 
 
